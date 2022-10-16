@@ -1,0 +1,3 @@
+somos los estudiantes de la formacion profesional de grado superior de desarollo de aplicaciones web del centro nazaret
+estamos en el primer año, y lo que hemos visto es durante los dos primeros meses son las bases de la creacion de una pagina 
+(web statica) que son html y css , 
